@@ -6,7 +6,7 @@
 
 🎯 Objetivo
 
-   🔹Automatizar os testes das funcionalidades principais do ToDo MVC
+   🔹Automatizar os testes das funcionalidades principais do TodoMVC
 
    🔹Garantir que os fluxos do usuário funcionem corretamente
 
