@@ -2,7 +2,7 @@
 
 📌 Sobre o Projeto
 
-   🔹Este repositório contém os testes automatizados desenvolvidos para a aplicação ToDo MVC, uma aplicação web de gerenciamento de tarefas. Os testes foram implementados utilizando Cypress com JavaScript, com foco em validar os principais fluxos da aplicação de forma automática.
+   🔹Este repositório contém os testes automatizados desenvolvidos para a aplicação TodoMVC, uma aplicação web de gerenciamento de tarefas. Os testes foram implementados utilizando Cypress com JavaScript, com foco em validar os principais fluxos da aplicação de forma automática.
 
 🎯 Objetivo
 
@@ -58,7 +58,7 @@
 
    🔹Node.js
 
-   🔹ToDo MVC
+   🔹TodoMVC
 
    🔹Navegador Google Chrome
 
