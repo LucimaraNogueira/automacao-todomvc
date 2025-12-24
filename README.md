@@ -60,7 +60,7 @@
 
    🔹TodoMVC
 
-   🔹Navegador Google Chrome
+   🔹Navegador Opera
 
 ▶️ Execução dos Testes
 
