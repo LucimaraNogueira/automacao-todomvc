@@ -1,4 +1,4 @@
-🤖 Testes Automatizados – ToDo MVC (Cypress + JavaScript)
+🤖 Testes Automatizados – TodoMVC (Cypress + JavaScript)
 
 📌 Sobre o Projeto
 
